@@ -45,7 +45,7 @@
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.0546852052</Time>
+                        <Time>0.241995156</Time>
                         <ValueVector4>
                           <X>0</X>
                           <Y>0</Y>
@@ -55,97 +55,97 @@
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.10093385</Time>
-                        <ValueVector4>
-                          <X>1000</X>
-                          <Y>200</Y>
-                          <Z>100</Z>
-                          <W>0</W>
-                        </ValueVector4>
-                        <Value2D />
-                      </Key>
-                      <Key>
-                        <Time>0.141228646</Time>
-                        <ValueVector4>
-                          <X>2000</X>
-                          <Y>400</Y>
-                          <Z>200</Z>
-                          <W>1</W>
-                        </ValueVector4>
-                        <Value2D />
-                      </Key>
-                      <Key>
-                        <Time>0.204815939</Time>
+                        <Time>0.31056577</Time>
                         <ValueVector4>
                           <X>1500</X>
+                          <Y>1500</Y>
+                          <Z>3000</Z>
+                          <W>1</W>
+                        </ValueVector4>
+                        <Value2D />
+                      </Key>
+                      <Key>
+                        <Time>0.3392144</Time>
+                        <ValueVector4>
+                          <X>800</X>
+                          <Y>700</Y>
+                          <Z>1000</Z>
+                          <W>1</W>
+                        </ValueVector4>
+                        <Value2D />
+                      </Key>
+                      <Key>
+                        <Time>0.386302829</Time>
+                        <ValueVector4>
+                          <X>400</X>
                           <Y>300</Y>
-                          <Z>150</Z>
+                          <Z>500</Z>
                           <W>1</W>
                         </ValueVector4>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.2669657</Time>
+                        <Time>0.420307636</Time>
                         <ValueVector4>
-                          <X>1000</X>
-                          <Y>200</Y>
-                          <Z>100</Z>
-                          <W>1</W>
-                        </ValueVector4>
-                        <Value2D />
-                      </Key>
-                      <Key>
-                        <Time>0.365995228</Time>
-                        <ValueVector4>
-                          <X>750</X>
+                          <X>200</X>
                           <Y>150</Y>
-                          <Z>75</Z>
+                          <Z>250</Z>
                           <W>1</W>
                         </ValueVector4>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.449496418</Time>
+                        <Time>0.472752243</Time>
                         <ValueVector4>
-                          <X>500</X>
-                          <Y>100</Y>
-                          <Z>50</Z>
+                          <X>100</X>
+                          <Y>75</Y>
+                          <Z>125</Z>
+                          <W>1</W>
+                        </ValueVector4>
+                        <Value2D />
+                      </Key>
+                      <Key>
+                        <Time>0.55528295</Time>
+                        <ValueVector4>
+                          <X>50</X>
+                          <Y>35</Y>
+                          <Z>60</Z>
                           <W>0.8</W>
                         </ValueVector4>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.5465848</Time>
+                        <Time>0.630049467</Time>
                         <ValueVector4>
-                          <X>250</X>
-                          <Y>50</Y>
-                          <Z>25</Z>
+                          <X>25</X>
+                          <Y>15</Y>
+                          <Z>30</Z>
                           <W>0.6</W>
                         </ValueVector4>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.661142647</Time>
+                        <Time>0.725196838</Time>
                         <ValueVector4>
-                          <X>100</X>
-                          <Y>20</Y>
-                          <Z>10</Z>
+                          <X>10</X>
+                          <Y>5</Y>
+                          <Z>15</Z>
                           <W>0.4</W>
                         </ValueVector4>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.8223219</Time>
+                        <Time>0.8504669</Time>
                         <ValueVector4>
-                          <X>50</X>
-                          <Y>10</Y>
-                          <Z>5</Z>
+                          <X>5</X>
+                          <Y>2</Y>
+                          <Z>8</Z>
                           <W>0.2</W>
                         </ValueVector4>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.8437164</Time>
+                        <Time>0.8912717</Time>
                         <ValueVector4>
                           <X>0</X>
                           <Y>0</Y>
@@ -177,27 +177,22 @@
                     <Keys>
                       <Key>
                         <Time>0</Time>
-                        <ValueFloat>0</ValueFloat>
+                        <ValueFloat>1</ValueFloat>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.535091639</Time>
-                        <ValueFloat>0</ValueFloat>
+                        <Time>0.33</Time>
+                        <ValueFloat>1</ValueFloat>
                         <Value2D />
                       </Key>
                       <Key>
-                        <Time>0.6133674</Time>
-                        <ValueFloat>10</ValueFloat>
-                        <Value2D />
-                      </Key>
-                      <Key>
-                        <Time>0.7661844</Time>
-                        <ValueFloat>1.5</ValueFloat>
+                        <Time>0.66</Time>
+                        <ValueFloat>1</ValueFloat>
                         <Value2D />
                       </Key>
                       <Key>
                         <Time>1</Time>
-                        <ValueFloat>0</ValueFloat>
+                        <ValueFloat>1</ValueFloat>
                         <Value2D />
                       </Key>
                     </Keys>
